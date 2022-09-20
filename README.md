@@ -38,6 +38,11 @@ The BackEnd is to get the trace routes, and turn them into a series of locations
 - Go TraceRoute
 - IP location API
 
+##### 4.3 API Spec
+
+- API documentation: https://documenter.getpostman.com/view/11549524/2s7YzyK6NB
+- Mock Server: https://527091d1-395a-401a-a4e4-d5e6f5e17881.mock.pstmn.io/ip2locations?server=plantree.me
+
 #### 05. Result
 
 
